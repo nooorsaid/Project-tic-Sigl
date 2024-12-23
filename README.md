@@ -3,7 +3,7 @@ This is the official repo for the project of tic assigned by prof bouchekir
 
 
 # project members:
--Sadeddine Nour Said<br/>
+-Sadeddine Nour Said (noursaidsadeddine@gmail.com)<br/>
 -Zouhir ben?<br/>
 -Mokadem Raouf<br/>
 -Nassim?<br/>
