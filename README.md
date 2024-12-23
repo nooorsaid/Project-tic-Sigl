@@ -4,7 +4,7 @@ This is the official repo for the project of tic assigned by prof bouchekir
 
 # project members:
 -Sadeddine Nour Said (noursaidsadeddine@gmail.com)<br/>
--Zohair Benmakhloufi<br/>
+-Benmakhloufi Zohair <br/>
 -Mokadem Raouf<br/>
--Nassim?<br/>
+-Bachi nassim<br/>
 -Oussama youb?<br/>
