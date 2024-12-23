@@ -6,5 +6,5 @@ This is the official repo for the project of tic assigned by prof bouchekir
 -Sadeddine Nour Said (noursaidsadeddine@gmail.com)<br/>
 -Benmakhloufi Zohair <br/>
 -Mokadem Raouf<br/>
--Bachi nassim<br/>
+-Bachi Nassim<br/>
 -Oussama youb?<br/>
