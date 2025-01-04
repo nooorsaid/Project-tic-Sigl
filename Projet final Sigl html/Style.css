@@ -1,0 +1,36 @@
+h2{color:blue }
+
+* {
+    background-color: black;
+}
+
+table, th, td 
+{border: 4px solid;
+border-collapse: collapse;
+text-align: center;
+}
+
+h1{color: red}
+h2{color:red}
+h3{color:#00FF00}
+p{color: #ffffff}
+ul,ol{color: #e1f5f2}
+th{color: #e1f5f2}
+td{color: #e1f5f2}
+p,ul,li{font-size: 22px;}
+h3{font-size: 28px;}
+h2{font-size: 30px;}
+h1{font-size: 36px;}
+b{color: #00FF00;}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
