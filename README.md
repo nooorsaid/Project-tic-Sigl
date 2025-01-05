@@ -12,4 +12,4 @@ This is the official repo for the project of tic assigned by prof bouchekir
 
 
 Note:<br>
-(Oussama Youb created a github account but could not send it because of phone problems)
+(Oussama Youb created a github account but could not send the project through it because of phone problems)
